@@ -1,4 +1,5 @@
 # Base Template Project for Angular+Firebase
+## Includes
 * Angular
 * Firebse
 * Angular Material
@@ -6,7 +7,7 @@
 * Service Worker for PWA
 * Google Login using Firebase Auth
 
-** Updates required after cloning/forking the template project **
+### Updates required for below after cloning/forking
 * firebase config in environment.ts
 * title in index.html
 * basehref in package.json
