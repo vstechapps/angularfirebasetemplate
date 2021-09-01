@@ -8,12 +8,12 @@
    "description": "App PWA",
    "icons": [
        {
-           "src": "/assets/icons/webedu.png",
+           "src": "/assets/icons/vvsk-icon.png",
            "sizes": "16x16",
            "type": "image/png"
        },
        {
-            "src": "/assets/icons/webedu.png",
+            "src": "/assets/icons/vvsk-icon.png",
             "sizes": "32x32",
             "type": "image/png"
         }
