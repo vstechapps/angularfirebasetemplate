@@ -66,7 +66,7 @@ export class HeaderComponent implements OnInit {
       this.router.navigate(['dashboard']);
     } else {
       this.menus = [];
-      this.menus.push({ name: "Login", click: "this.login()", route: "login", icon: "login" });
+      this.menus.push({ name: "Login", click: undefined, route: "login", icon: "login" });
       this.router.navigate(['']);
     }
   }
