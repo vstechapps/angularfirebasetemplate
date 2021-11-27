@@ -28,6 +28,7 @@ import { ProfileComponent } from './profile/profile.component';
 import { InputComponent } from './input/input.component';
 import { CardComponent } from './card/card.component';
 import { ToastrModule } from 'ngx-toastr';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +39,8 @@ import { ToastrModule } from 'ngx-toastr';
     FooterComponent,
     ProfileComponent,
     InputComponent,
-    CardComponent
+    CardComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
